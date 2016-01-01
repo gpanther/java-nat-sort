@@ -1,0 +1,24 @@
+# from http://www.davekoelle.com/alphanum.html
+z1.doc
+z10.doc
+z100.doc
+z101.doc
+z102.doc
+z11.doc
+z12.doc
+z13.doc
+z14.doc
+z15.doc
+z16.doc
+z17.doc
+z18.doc
+z19.doc
+z2.doc
+z20.doc
+z3.doc
+z4.doc
+z5.doc
+z6.doc
+z7.doc
+z8.doc
+z9.doc
