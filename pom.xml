@@ -13,6 +13,27 @@
 		<maven>3.0</maven>
 	</prerequisites>
 
+	<licenses>
+		<license>
+			<name>The Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Grey Panther</name>
+			<email>gpanther@grey-panther.info</email>
+			<organization>Grey Panther</organization>
+			<organizationUrl>https://www.grey-panther.net/</organizationUrl>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git@github.com:gpanther/java-nat-sort.git</connection>
+		<developerConnection>scm:git:git@github.com:gpanther/java-nat-sort.git</developerConnection>
+		<url>git@github.com:gpanther/java-nat-sort.git</url>
+	</scm>
 
 	<dependencies>
 		<dependency>
