@@ -7,6 +7,8 @@
 	<packaging>jar</packaging>
 
 	<name>Natural order comparator for Java</name>
+	<description>Java implementation of the "natural sort" (also known as Alphanum sort) algorithm</description>
+	<url>https://github.com/gpanther/java-nat-sort</url>
 
 	<prerequisites>
 		<maven>3.0</maven>
