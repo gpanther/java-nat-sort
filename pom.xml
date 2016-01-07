@@ -3,7 +3,7 @@
 
 	<groupId>net.grey-panther</groupId>
 	<artifactId>natural-comparator</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Natural order comparator for Java</name>
@@ -32,7 +32,7 @@
 		<connection>scm:git:git@github.com:gpanther/java-nat-sort.git</connection>
 		<developerConnection>scm:git:git@github.com:gpanther/java-nat-sort.git</developerConnection>
 		<url>git@github.com:gpanther/java-nat-sort.git</url>
-	  <tag>natural-comparator-1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
